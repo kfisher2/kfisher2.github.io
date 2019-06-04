@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: 'Welcome, plebians!'
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#Hello! Misfortune abounds!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I'm a person, just like you. Writing a book! Perhaps just like you but more likely not. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In this blog, I will discuss writing challenges I face, share short lore, and release information about my book: Madrigal of Misfortune (Mad of Mis).
+
+Mad of Mis is a fantasy novel I started in January 2019 totalling 15,000 words right now. Characters are developing! Plots are unfolding! Questions are waiting for answers! Magical explosions! Kittens! Politics!
+
+Rosalinda (grand cat mother to aforementioned kittens) can be found on Twitter: (Rosalinda the Royal)[https://twitter.com/MadrigalSeries].
+
+Expected completion is 2022. Feel free to contact me at madrigalofmisfortune@gmail.com.
+
